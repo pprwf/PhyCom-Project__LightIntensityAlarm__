@@ -32,4 +32,4 @@
 https://youtu.be/GNzjRTAWlpY
 [YouTube](https://youtu.be/GNzjRTAWlpY)
 # POSTER 
-https://github.com/pprwf/PhyCom-Project__LaserAlarm__/blob/main/LightAlarm_Print.pdf
+![Example screenshot](https://github.com/pprwf/PhyCom-Project__LaserAlarm__/blob/main/LightAlarm_Print.pdf)
