@@ -29,6 +29,7 @@
 
 
 ## VDO สาธิตการใช้งานโปรเจค
+<video width="630" height="300" src="[https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/assets/109953609/75f7c482-f76a-4ea6-8d17-f5b4272c935e)"></video>
 [YouTube](https://youtu.be/GNzjRTAWlpY "Project Video Demo")
 
 ## POSTER 
