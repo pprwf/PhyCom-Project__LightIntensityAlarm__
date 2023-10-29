@@ -1,4 +1,4 @@
-# Physical Computing -Project "Light Intensity Alarm 🚨🔊"-
+# Physical Computing "Light Intensity Alarm Project 🚨🔊"
 
 > 📌Project นี้เป็นส่วนหนึ่งของวิชา PHYSICAL COMPUTING 06016409 ภาคเรียนที่ 1 ปีการศึกษา 2566 คณะเทคโนโลยีสารสนเทศ สาขาเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
 
@@ -32,4 +32,5 @@
 [YouTube](https://youtu.be/GNzjRTAWlpY "Project Video Demo")
 
 ## POSTER 
-[Poster](https://github.com/pprwf/PhyCom-Project__LaserAlarm__/blob/main/LightAlarm_Print.pdf "Poster")
+![Poster Show](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Poster/LightAlarm_Pic.png "Post Pic")
+[Poster](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Poster/LightAlarm_Print.pdf "Poster")
