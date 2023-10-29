@@ -1,35 +1,35 @@
-# PhyCom-Project__LaserAlarm 🚨🔊
+# Physical Computing -Project "Light Intensity Alarm 🚨🔊"-
 
 > 📌Project นี้เป็นส่วนหนึ่งของวิชา PHYSICAL COMPUTING 06016409 ภาคเรียนที่ 1 ปีการศึกษา 2566 คณะเทคโนโลยีสารสนเทศ สาขาเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
 
-# บทคัดย่อ
+## บทคัดย่อ
 โปรเจคนี้เป็นการบูรณาการ Microcontroller ในรายวิชา PHYSICAL COMPUTING โดยเป็นการทำเป็น demo สำหรับระบบกันขโมย จะมีอุปกรณ์ทั้งหมดดังนี้
 
 * > Arduino UNO
-![Example screenshot](https://github.com/pprwf/PhyCom-Project__LaserAlarm__/blob/main/arduino-uno-smd-500x500-removebg-preview.png?raw=true)
+![Arduino Uno Screenshot](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Picture/Arduino%20Uno.png "Arduino Uno")
 
 * > Breadboard
-![Example screenshot](https://github.com/pprwf/PhyCom-Project__LaserAlarm__/blob/main/56T0249-40-removebg-preview.png?raw=true)
+![Breadboardd Screenshot](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Picture/Breadboard.png "Breadboard")
 
 * > Buzzer       
-![Example screenshot](https://github.com/pprwf/PhyCom-Project__LaserAlarm__/blob/main/fi-removebg-preview.png?raw=true)
+![Buzzer Screenshot](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Picture/Buzzer.png "Buzzer")
 
 * > Push Button
-![Example screenshot](https://github.com/pprwf/PhyCom-Project__LaserAlarm__/blob/main/Big-key-push-button-light-touch-switch-module-with-hat-High-level-output-for-arduino-or-removebg-preview.png?raw=true)
+![Push Button Screenshot](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Picture/Red%20Push%20Button.png "Button")
 
-* > Light sensor
-![Example screenshot](https://github.com/pprwf/PhyCom-Project__LaserAlarm__/blob/main/cover-removebg-preview.png?raw=true)
+* > Light Sensor
+![(Seeed Studio) Grove - Light Sensor Screenshot](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Picture/Grove%20-%20Light%20Sensor.png "Light Sensor")
 
-* > ky 008 Laser emitter
-![Example screenshot](https://github.com/pprwf/PhyCom-Project__LaserAlarm__/blob/main/l0fa67-removebg-preview.png?raw=true)
+* > Laser Transmitter
+![(ky-008) Laser Transmitter Screenshot](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Picture/Laser%20Transmitter.png "Laser")
 
-* > 4x4 keypad matrix
-![Example screenshot](https://github.com/pprwf/PhyCom-Project__LaserAlarm__/blob/main/SW-KEYPAD-MEM-4X4-800x800-removebg-preview.png?raw=true)
+* > 4x4 Keypad Matrix
+![Keypad Screenshot](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Picture/Keypad.png "Keypad")
 
 
 
-# VDO สาธิตการใช้งานโปรเจค
-https://youtu.be/GNzjRTAWlpY
-[YouTube](https://youtu.be/GNzjRTAWlpY)
-# POSTER 
-https://github.com/pprwf/PhyCom-Project__LaserAlarm__/blob/main/LightAlarm_Print.pdf
+## VDO สาธิตการใช้งานโปรเจค
+[YouTube](https://youtu.be/GNzjRTAWlpY "Project Video Demo")
+
+## POSTER 
+[Poster](https://github.com/pprwf/PhyCom-Project__LaserAlarm__/blob/main/LightAlarm_Print.pdf "Poster")
