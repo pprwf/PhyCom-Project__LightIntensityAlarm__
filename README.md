@@ -28,7 +28,7 @@ Project นี้เป็นการบูรณาการในการใ
 > ![Keypad Screenshot](https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/blob/main/Picture/Keypad.png "Keypad")
 
 ## VDO สาธิตการใช้งานโปรเจค
-<video width="630" height="300" src="https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/assets/109953609/75f7c482-f76a-4ea6-8d17-f5b4272c935e"></video>
+<video width="630" height="300" src="https://github.com/pprwf/PhyCom-Project__LightIntensityAlarm__/assets/109953609/03a49f24-4509-4754-8728-e520c8ac2526"></video>
 [YouTube](https://youtu.be/GNzjRTAWlpY "Project Video Demo")
 
 ## POSTER 
